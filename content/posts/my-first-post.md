@@ -22,7 +22,7 @@ draft = false
 
 新建仓库后，在Settings页面找到Pages选项卡，将Source选择为Github Actions，选择后会出现多个模板，找到Hugo。
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
 配置之后，Github会自动帮你在.github/workflows目录下生成一个hugo.yml文件，我们将其中的on.jobs.build.env.HUGO_VERSION设置为自己的Hugo版本号即可。
 
