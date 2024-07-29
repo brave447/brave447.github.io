@@ -1,0 +1,4 @@
+baseURL = 'https://brave447.github.io/'
+languageCode = 'zh-cn'
+title = 'Brave447 Blog'
+theme = 'ananke'
