@@ -2,6 +2,7 @@
 title = '使用Hugo+Github Actions创建Github Pages'
 date = 2024-07-29T19:09:57+08:00
 draft = false
+show_reading_time = true
 +++
 
 ## 简介
